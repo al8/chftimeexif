@@ -1,0 +1,1 @@
+The command line utility is used to change the modified time of the file to match the exif time DateTimeOriginal.
